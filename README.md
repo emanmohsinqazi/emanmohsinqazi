@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DataScience and Machine learning**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: emanmohsin629@gmail.com</h3>
 <p align="left">
 </p>
 
